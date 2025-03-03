@@ -19,4 +19,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edy-dec&show_icons=true&title_color=ffffff&bg_color=1000f5&hide_border=true&locale=en&layout=compact" alt="edy-dec" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edy-dec&" alt="edy-dec" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edy-dec&theme=dark" alt="edy-dec" /></p>
